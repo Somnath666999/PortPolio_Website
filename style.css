@@ -1,0 +1,111 @@
+*{
+    padding:0%;
+    margin: 0%;
+    font-family: 'Fira Code', monospace;
+    color: white;
+}
+body{
+    width: 100%;
+}
+.primary-background{
+    background-color: #000!important;
+}
+.btn-color{
+    background-color: #1c1c1c;
+}
+/* navbar */
+.colorNavbar{
+    background-image: linear-gradient(to top left,rgb(73, 73, 73),rgb(17 17 17));
+}
+/* Content Section */
+.image{
+
+    display: flex;
+    justify-content: center;
+}
+.image img{
+    max-width: 100%;
+    height: auto;
+    border-style: none;
+}
+img{
+    vertical-align: middle;
+}
+
+/*Name Section*/
+#Name{
+    padding: 1rem 0rem;
+    margin: 0rem 8rem;
+}
+#Name h2{
+    font-size: 28.8px;
+    margin: 1.3rem 0rem;
+    color: rgb(255, 255, 255);
+}
+#Name p{
+    margin: 1.3rem 0rem;
+    color: rgba(255, 255, 255, 0.601);
+}
+
+/*Skills*/
+#Skills{
+    padding: 1rem 0rem;
+    margin: 0rem 8rem;
+}
+#Skills h2{
+    font-size: 28.8px;
+    margin: 1.3rem 0rem;
+}
+#Skills .skill{
+    color: rgba(255, 255, 255, 0.601);
+    margin: 1rem 0rem;
+}
+
+/*Projects*/
+#Projects{
+    margin: 1rem 8rem;  
+}
+.project-background{
+    background-image: linear-gradient(to top left,rgb(110, 110, 110),rgb(17 17 17));
+}
+#last{
+    color: rgba(255, 255, 255, 0.601);
+}
+
+/*Contact Me*/
+#Contact{
+    padding: 1rem 0rem;
+    margin: 0rem 8rem;
+}
+#Contact .heading h2{
+    font-size: 28.8px;
+    margin: 1.3rem 0rem;
+}
+
+
+/*Appoinment Form*/
+#form_me{
+    padding: 1rem 0rem;
+    margin: 0rem 8rem;
+}
+#form_me p{
+    margin: 0.8rem 0rem;
+    color: rgba(255, 255, 255, 0.601);
+}
+#form_me input,textarea{
+    margin: 1rem 0rem;
+    height: 40px;
+    width: 100%;
+    color: #000;
+}
+
+
+
+#copyright{
+    padding-top: 3em;
+    padding-bottom: 1em;
+    margin: 0rem 8rem;
+    text-align: right;
+    color: rgba(255, 255, 255, 0.601);
+    font-size: smaller;
+}

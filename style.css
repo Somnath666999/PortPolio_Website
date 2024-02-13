@@ -35,7 +35,7 @@ img{
 /*Name Section*/
 #Name{
     padding: 1rem 0rem;
-    margin: 0rem 8rem;
+    margin: 0rem 2rem;
 }
 #Name h2{
     font-size: 28.8px;
@@ -50,7 +50,7 @@ img{
 /*Skills*/
 #Skills{
     padding: 1rem 0rem;
-    margin: 0rem 8rem;
+    margin: 0rem 2rem;
 }
 #Skills h2{
     font-size: 28.8px;
@@ -63,7 +63,7 @@ img{
 
 /*Projects*/
 #Projects{
-    margin: 1rem 8rem;  
+    margin: 1rem 2rem;  
 }
 .project-background{
     background-image: linear-gradient(to top left,rgb(110, 110, 110),rgb(17 17 17));
@@ -75,7 +75,7 @@ img{
 /*Contact Me*/
 #Contact{
     padding: 1rem 0rem;
-    margin: 0rem 8rem;
+    margin: 0rem 2rem;
 }
 #Contact .heading h2{
     font-size: 28.8px;
@@ -86,7 +86,7 @@ img{
 /*Appoinment Form*/
 #form_me{
     padding: 1rem 0rem;
-    margin: 0rem 8rem;
+    margin: 0rem 2rem;
 }
 #form_me p{
     margin: 0.8rem 0rem;
